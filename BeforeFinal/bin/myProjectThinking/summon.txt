@@ -1,0 +1,5 @@
+Dragon;60;80;Fire
+Phoenix;as;
+Monkey;50;30;Earth
+Shark;70;65;Water
+Giraffe;50;40;Thunder
